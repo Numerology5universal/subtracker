@@ -1,0 +1,25 @@
+   {
+     "expo": {
+       "name": "Cancel - Subscription Tracker",
+       "slug": "subtracker-mobile",
+       "version": "1.0.0",
+       "orientation": "portrait",
+       "userInterfaceStyle": "dark",
+       "splash": {
+         "backgroundColor": "#0f1115"
+       },
+       "ios": {
+         "supportsTablet": true,
+         "bundleIdentifier": "com.yourname.subtracker"
+       },
+       "android": {
+         "package": "com.yourname.subtracker",
+         "adaptiveIcon": {
+           "backgroundColor": "#0f1115"
+         }
+       },
+       "web": {
+         "bundler": "metro"
+       }
+     }
+   }
